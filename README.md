@@ -6,8 +6,10 @@
 ![step3](https://github.com/elyakkos/prog5-lr1/blob/main/step3.png)
 ### 3. Далее, чтобы продемонстрировать работу импорта из удаленного каталога, запустим сервер http так, чтобы наш желаемый для импорта модуль "лежал" на сервере (например, в корневой директории сервера). Откроем каталог rootserver с файлом myremotemodule.py и запустим там сервер:
 ![step4](https://github.com/elyakkos/prog5-lr1/blob/main/step4.png)
-### 4. После этого мы запустили файл, в котором содержится код. python3 -i activation_script.py
+### 4. После этого мы запустили файл, в котором содержится код. python3 -i activation_script.py. Выполнили код: sys.path.append("http://localhost:8000")
 ![step5](https://github.com/elyakkos/prog5-lr1/blob/main/step5.png)
+![step6](https://github.com/elyakkos/prog5-lr1/blob/main/step6.png)
+
 
 
 
