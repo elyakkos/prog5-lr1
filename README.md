@@ -15,7 +15,7 @@
 ![step7](https://github.com/elyakkos/prog5-lr1/blob/main/step7.png)
 
 ### Ссылка на код: 
-[code-lr1](https://github.com/elyakkos/prog5-lr1/tree/main/lr1-code)
+[Посмотреть код](https://github.com/elyakkos/prog5-lr1/tree/main/lr1-code)
 
 
 
