@@ -10,6 +10,12 @@
 ![step5](https://github.com/elyakkos/prog5-lr1/blob/main/step5.png)
 ![step6](https://github.com/elyakkos/prog5-lr1/blob/main/step6.png)
 
+### Задание *.
+### Добавим в вывод обработчик, который будет ловить исключения
+![step7](https://github.com/elyakkos/prog5-lr1/blob/main/step7.png)
+
+
+
 
 
 
